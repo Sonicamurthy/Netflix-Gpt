@@ -6,7 +6,7 @@ function App() {
       Hello react  js
       how are you
 
-      
+      Sonica
     </div>
   );
 }
