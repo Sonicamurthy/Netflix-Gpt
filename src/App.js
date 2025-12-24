@@ -3,10 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Hello react  js
-      how are you
-
-      Sonica
+      <h1 className='text-4xl p-10 text-blue-500'>hello world</h1>
     </div>
   );
 }
